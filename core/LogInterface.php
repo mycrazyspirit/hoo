@@ -1,7 +1,7 @@
 <?php
 namespace core;
-
 interface LogInterface {
 	public static function log($str);
-	public static function wtite();
+	public static function write();
 }
+?>

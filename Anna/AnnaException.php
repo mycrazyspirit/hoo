@@ -1,4 +1,6 @@
 <?php
-	Exeption extends RuntimeExeption {
-		
-	}
+namespace Anna;
+
+Class AnnaException extends \RuntimeException {
+
+}
