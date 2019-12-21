@@ -1,0 +1,4 @@
+<?php
+	Exeption extends RuntimeExeption {
+		
+	}
